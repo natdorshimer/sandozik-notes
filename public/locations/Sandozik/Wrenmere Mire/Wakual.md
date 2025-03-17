@@ -1,4 +1,4 @@
-**(35,000)**
+**Population:** 35,000
 
 - The second-largest city, forming the heart of the Freehold Pact, a coalition of local mayors and lords.
 - The breadbasket of Sandozik, supplying 60% of the realm’s food through its vast farmland.

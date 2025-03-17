@@ -1,4 +1,4 @@
-**25,000**
+**Population:** 25,000
 
 - A heavily fortified port city on Gundalun, surrounded by towering bronze walls to defend against elementals.
 - Primarily populated by dwarves (60%), with a government led by the Bronze Port Mercantile Collective.
