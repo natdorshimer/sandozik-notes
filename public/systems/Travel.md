@@ -15,10 +15,10 @@ An important concept within the travel system is Supplies. Discussed further lat
 There is a 50% chance of a rest between every, and the party decides when and if to take downtime, typically for recovery and scavenging supplies or when reaching a population center. After every encounter during travel, several steps occur before the next encounter in this order:
 
 ## The Travel Flow
-1. Party chooses pace and consumes supplies
-2. Party takes exploration activities
+1. [[Travel#Travelling#1. Choose Travel Pace|Party chooses pace and consumes supplies]]
+2. [[Travel#Travelling#2. Travel and Exploration Activities|Party takes exploration activities]]
 3. Party rolls to see if rest occurs (50/50)
-4. Party rolls for the next encounter
+4. [[Travel#Travelling#4. Encounters|Party rolls for the next encounter]]
 
 ### Travel Through Known Realms
 For travel through known realms, encounters are not triggered in every realm. Instead, for every four realms traveled, one encounter occurs. This is always a random encounter, though plot-related events may still unfold during the journey. When rolling for encounters in known realms, the party adds +1 to the encounter roll for each realm crossed, up to a maximum of +4. If this addition results in a roll over 12, a d6 is rolled to determine the encounter:
@@ -31,7 +31,7 @@ If the modified roll exceeds 12, the difference between the total and the assign
 
 # Travelling
 
-## Choose Travel Pace
+## 1. Choose Travel Pace
 
 | Pace        | Supplies Consumed | Impacts                                                                                      |
 | ----------- | ----------------- | -------------------------------------------------------------------------------------------- |
@@ -40,7 +40,7 @@ If the modified roll exceeds 12, the difference between the total and the assign
 | Fast        | 3                 | Party cannot use ‘move at half speed’ activities.                                            |
 | Force March | 2                 | Party is immediately detected, -2 to initiative, cannot use ‘move at half speed’ activities. |
 
-## Supplies & Resource Management
+## 1b. Supplies & Resource Management
 
 Supplies represent all necessities for survival, including food, crafting materials, maintenance items, exploration gear, easily purchased spell components, and general equipment. A party can carry a maximum of 25 supplies, though this limit can be increased through various means.
 
@@ -86,7 +86,7 @@ Supplies can be purchased at population centers at 5 sp per supply. Doing so wil
 | ~    | Any assistive items                                   |
 
 
-## Travel and Exploration Activities
+## 2. Travel and Exploration Activities
 
 Players may each take an exploration activity between encounters while traveling. These represent the highlights of a journey, encapsulating skill-based actions that help the party adapt, prepare, or recover. While this amount may seem slight, it is also a representation of all the work the party has done to weather the many harmful events and combats that occur within this journey outside of the encounters being played through. Exploration activities may be performed when in exploration settings as normal, such as post-combat scenarios, dungeon navigation, or settlement downtime. Several exploration activities are modified within this system, with several new ones also being included. Notably, ‘move at half speed’ activities no longer apply directly, but instead can be used only when the party is traveling at slow or normal speed, and the ‘Avoid Notice’ activity can only be used during slow movement and is automatically applied to the party.
 
@@ -99,7 +99,7 @@ Players may each take an exploration activity between encounters while traveling
 - Modified Activity - Scout: Can perform while moving at full speed, start up to 60 ft ahead of the party when entering a map for the following encounter.
     
 - Modified Activity - Sense Direction: add +1 to the next encounter roll (+2 max per roll)
-## Travel and Downtime
+## 2b. Travel and Downtime
 
 Downtime is always taken by player choice. It may occur in three primary instances:
 
@@ -111,7 +111,7 @@ Downtime is always taken by player choice. It may occur in three primary instanc
     
 
 Standard Pathfinder 2e Downtime Rules apply, with additional survival-based considerations for forced downtime. Upon choosing to take Downtime in the wilderness, one player will use their first exploration activity to set up camp, making a survival check. Once every player takes two exploration activities, 4 supplies are consumed and a roll is
-## Encounters
+## 4. Encounters
 
 | Roll Total | Encounter Type & Outcome                                                                                                                                                                                                                                                                                                                                                                         |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -127,7 +127,7 @@ Standard Pathfinder 2e Downtime Rules apply, with additional survival-based cons
 | 11         | Deadly Combat Encounter – A high-risk battle with a powerful enemy or force. Slight errors can mean death, and even victory may come at great cost. The party must weigh their options carefully and will need to use creativity to overcome the threat. Winning the fight allows rest. Getting past the threat without defeating it is an option as well, but will not offer a chance for rest. |
 | 12         | Bad Realm Power Encounter – The party draws the attention of a formidable force tied to the realm, such as an angry deity, a monstrous entity, or a powerful antagonist. The best outcome is escape, while the worst may be a total party kill.                                                                                                                                                  |
 
-## Occurrences
+## 4b. Occurrences
 
 Occurrences are events that occur on a result of 7 on the 2d6 encounter roll. These events do not occur as encounters, but instead as 3 consecutive 2d4 rolls that determine events that have impacted the party. The occurrences range from loss of supplies to modifiers to following encounters, with a variety of potential impacts.
 
