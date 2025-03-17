@@ -1,0 +1,2 @@
+* No major cities or governing bodies, but a handful of small towns scattered throughout. [[Logos Village]]
+- Rivers wind through the woods, most originating from Oftwinter River, which starts directly south of Oftwinter 30 miles to the West

@@ -1,0 +1,4 @@
+- A swampy region dozens of miles across at the southern edge of the map, bordering the Sea of Storms and reaching the foothills of the sword mountains
+- Though largely beat back from the edges of the swamp, malevolent magics exist deep within that raise the dead and corrupt the waters\
+- The second largest city in the realm, Wakual, exists along the northeastern edge. The port town of Kryptgarden exists in the northern portions of the region, known for its eclectic culture and occult practices
+- Cities: [[Wakual]] (north-eastern edge, small city, fully diverse), [[Kryptgarden]] (northern mire region, town, diverse population)

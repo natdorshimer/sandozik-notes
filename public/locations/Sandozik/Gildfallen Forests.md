@@ -1,0 +1,5 @@
+- Make up some of the forests of the Eastern basin, encompassing the southern half of the region
+- A handful of towns exist throughout the region, especially beneath the Basol cliffs and the dozens of waterfalls that cascade from them
+- Region is home to the nation of Aflairen, overseen by the celestial tenders which answer to the Oren Council
+- Monasteries dot the cliffs along with the holy town of Goldrise, built around an immense golden cathedral
+- Largest city is [[Fairfalls]], which sits beneath 3 large waterfalls that tumble off the Basol Cliffs from Lake Heron above

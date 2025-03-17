@@ -1,0 +1,3 @@
+- Region of dense woods taking up much of the Eastern basin, primarily the northern portions
+- Not inhabited by any nation, but a collection of leshy tribes and druidic circles inhabit the region
+- While conflict most certainly exists amongst the groups in the region, all strongly oppose any form of construction or development entering the forests
