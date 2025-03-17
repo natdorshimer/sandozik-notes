@@ -4,4 +4,4 @@ This is a repository meant to be used with Obsidian, though any markdown editor 
 
 Anything not in the personal folder will be tracked by git
 
-![[example-folder-structure.png]]
+![Example folder structure](example-folder-structure.png)
