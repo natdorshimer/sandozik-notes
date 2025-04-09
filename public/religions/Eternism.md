@@ -1,4 +1,3 @@
-
 # Demographics 
 - Practitioner Count: 45,000
 
@@ -34,7 +33,7 @@
 2. Devotion to the Lightkeepers – Worship of the nine celestials of the Oren Council, each with their own dedicated following, holidays, and tenets.
     
 3. Honesty as a Sacred Law – Deception and dishonesty are seen as direct affronts to the purity of the soul, and transparency is expected in all dealings.
-    
+
 
 # Object of Worship & Divine Power Source
 
